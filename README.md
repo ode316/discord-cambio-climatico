@@ -5,7 +5,7 @@ este proyecto tiene como objetivo crear un sistema de analisis de materiales par
 - /impacto: este comando nos ayudara a identificar que tan dañino es para el ambiente este material
 - /durabilidad:este comando ayudara a darnos cuenta cuanto duran los materiales que usamos en la vida diaria
 - /reutilizar:el comando reutilizar nos ayudara a mirar si se puede reutilizar o no
-#🎮tecnoligias
+# 🎮tecnologia
 - python
 - keras
 - tensorflow
